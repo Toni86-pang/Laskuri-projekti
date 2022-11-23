@@ -1,0 +1,43 @@
+body
+{
+    background-image: url("forest.jpg");
+    background-size: auto;
+
+    
+  }
+h1
+{
+    text-align: center;
+    color: rgb(173, 0, 0);
+    background: rgb(9,8,27);
+    background: radial-gradient(circle, rgba(9,8,27,0.8726059131408006) 0%, rgba(3,3,10,0.8473250142643961) 58%, rgba(255,255,255,0) 92%);
+    font-size: 50px;
+    padding-left: 30;
+    padding-right: 30;
+}
+.dropdown
+{
+    text-align: center;
+    color: rgb(197, 1, 1);
+    background: rgb(9,8,27);
+    background: radial-gradient(circle, rgba(9,8,27,0.8726059131408006) 0%, rgba(3,3,10,0.8473250142643961) 58%, rgba(255,255,255,0) 92%);
+}
+.input
+{
+    text-align: center;
+    color: rgb(28, 139, 0);
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(90,9,92,1) 50%, rgba(0,0,0,1) 100%);
+    height: 200px;
+    width: 200px;
+}
+
+.result{
+    text-align: center;
+    color: rgb(204, 7, 7);
+    background: rgb(9,8,27);
+    background: linear-gradient(180deg, rgba(9,8,27,0.5579991715677668) 0%, rgba(0,0,0,0.8866508569610253) 45%, rgba(255,255,255,0) 92%);
+    font-size: 50px;
+    padding-left: 30;
+    padding-right: 30;
+}
