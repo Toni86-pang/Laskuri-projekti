@@ -1,2 +1,2 @@
 # fluffy-couscous
-Asiakas projekti työ koululle
+laskuri projekti
